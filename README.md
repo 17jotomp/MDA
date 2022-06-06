@@ -1,6 +1,6 @@
 # Marketing Data Analysis Project
 ### Description
-The objective of this project is to provide data-driven recommendations on the effectiveness of recent advertising campaigns as well as ask and answer questions about the performance of a grocery chain. The deliverable is this notebook. <br> <br>
+The objective of this project is to provide data-driven recommendations on the effectiveness of recent advertising campaigns as well as ask and answer questions about the performance of a grocery chain. The deliverable is a Jupyter Notebook. <br> <br>
 This notebook is divided into four sections:
 1) Exploratory Data Analysis  
 2) Statistical Analysis  
